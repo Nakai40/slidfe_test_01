@@ -110,9 +110,3 @@ A professional, high-resolution 16:9 infographic slide. Pure white background. B
 A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "LLMは「言葉を操る魔法の杖」" in hex #2e405c. SUB COPY: "正しく知って、未来をショートカット！" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: In the center, a cute energetic young girl ("Ai") and a friendly old professor ("Hakahakase") are standing side-by-side, giving a friendly victory pose or a wave together. Between them or held up by the professor, a glowing magic wand casts a sparkling trail of stardust floating around the characters. (Note: NO text or Japanese characters should be included in the illustration part). The characters are cute, rounded, and pop-style. The composition is balanced and joyful across the slide. Ensure the bottom 1/3 remains free of text. --ar 16:9
 ```
 
-### スライド 15：エンディング
-*   **メインコピー**：ご視聴ありがとうございました！
-*   **補足**：高評価・チャンネル登録お願いします
-```text
-A professional, high-resolution 16:9 infographic slide for a YouTube ending. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "ご視聴ありがとうございました！" in hex #2e405c. SUB COPY: "高評価・チャンネル登録お願いします" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: On the left side of the frame, a cute energetic young girl (@img1) and a friendly old professor (@img2) are standing side-by-side, smiling and pointing enthusiastically towards the center and right side of the slide. The right 1/2 of the slide is kept as an intentional clean space for YouTube end screen elements. Cute, pop-style characters. Balanced composition. Ensure the bottom 1/3 remains free of text or important graphics for subtitles. --ar 16:9
-```
