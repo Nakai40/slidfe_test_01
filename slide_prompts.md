@@ -77,9 +77,9 @@ A professional, high-resolution 16:9 infographic slide. Pure white background. B
 
 ### スライド 10：具体例
 *   **メインコピー**：代表的な3つのLLM
-*   **キーワード**：ChatGPT / Gemini / Claude（タグ風のデザイン）
+*   **キーワード**：ChatGPT / Gemini / Claude（それぞれ差別化されたデザインのタグ）
 ```text
-A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "代表的な3つのLLM" in hex #2e405c. SUB COPY: Three tags "ChatGPT", "Gemini", and "Claude" each enclosed in a rounded rectangle tag shape. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: Below the text, a cute and friendly AI robot mascot is smiling (smiling face mark). The robot is holding a speech bubble that says "自分に合う「推し」を見つけよう" in rounded Japanese font. The overall composition should be cheerful, balanced, and premium. Ensure the bottom 1/3 remains free of text. --ar 16:9
+A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "代表的な3つのLLM" in hex #2e405c. SUB COPY: Three visually distinct tags: "ChatGPT" (greenish), "Gemini" (blueish), and "Claude" (orange-beige), each with unique brand-inspired accent patterns or subtle wave-like details. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: Below the tags, a cute AI robot mascot is positioned on the right side. It is holding a wide, horizontal speech bubble extending to the left, which says "自分に合う「推し」を見つけよう" in rounded Japanese font. The composition is balanced and clean. Ensure the bottom 1/3 remains free of text. --ar 16:9
 ```
 
 ### スライド 11：注意点（ハルシネーション）
@@ -90,10 +90,10 @@ A professional, high-resolution 16:9 infographic slide. Pure white background. B
 ```
 
 ### スライド 12：注意点（感情）
-*   **メインコピー**：「心」はありません
+*   **メインコピー**：AIに「心」はありません
 *   **キーワード**：あくまで計算機。意志や感情はない
 ```text
-A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "「心」はありません" in hex #2e405c. SUB COPY: "あくまで計算機。意志や感情はない" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. A sleek, rounded computer monitor with a circuit-based heart icon inside. The composition should be centered and balanced with subtle background geometric shapes. Ensure the bottom 1/3 remains free of text. --ar 16:9
+A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "AIに「心」はありません" in hex #2e405c. SUB COPY: "あくまで計算機。意志や感情はない" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: A cute, smiling robot is featured in a balanced composition. In the center or as a closeup, show a stylized "mechanical heart" made of glowing blue circuit lines and intricate golden gears inside the robot's chest or held by the robot. The design should symbolize a "heart" made of calculation. Premium, clean, and futuristic aesthetic. Ensure the bottom 1/3 remains free of text. --ar 16:9
 ```
 
 ### スライド 13：活用のアドバイス
@@ -107,12 +107,12 @@ A professional, high-resolution 16:9 infographic slide. Pure white background. B
 *   **メインコピー**：LLMは「言葉を操る魔法の杖」
 *   **補足**：正しく知って、未来をショートカット！
 ```text
-A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "LLMは「言葉を操る魔法の杖」" in hex #2e405c. SUB COPY: "正しく知って、未来をショートカット！" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. A glowing magic wand casting a trail of stardust that turns into words. The stardust should flow across the slide for a dynamic and balanced composition. Ensure the bottom 1/3 remains free of text. --ar 16:9
+A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "LLMは「言葉を操る魔法の杖」" in hex #2e405c. SUB COPY: "正しく知って、未来をショートカット！" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: In the center, a cute energetic young girl ("Ai") and a friendly old professor ("Hakahakase") are standing side-by-side, giving a friendly victory pose or a wave together. Between them or held up by the professor, a glowing magic wand casts a sparkling trail of stardust floating around the characters. (Note: NO text or Japanese characters should be included in the illustration part). The characters are cute, rounded, and pop-style. The composition is balanced and joyful across the slide. Ensure the bottom 1/3 remains free of text. --ar 16:9
 ```
 
 ### スライド 15：エンディング
 *   **メインコピー**：ご視聴ありがとうございました！
 *   **補足**：高評価・チャンネル登録お願いします
 ```text
-A professional, high-resolution 16:9 infographic slide. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "ご視聴ありがとうございました！" in hex #2e405c. SUB COPY: "高評価・チャンネル登録お願いします" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. Cute, rounded icons of a heart, a bell, and a play button arranged in a festive, balanced way across the slide. High-quality vector style. Ensure the bottom 1/3 remains free of text. --ar 16:9
+A professional, high-resolution 16:9 infographic slide for a YouTube ending. Pure white background. Bold, ROUNDED Japanese typography. MAIN COPY: "ご視聴ありがとうございました！" in hex #2e405c. SUB COPY: "高評価・チャンネル登録お願いします" in gray. CRITICAL LAYOUT: All text must be in the upper 2/3. ILLUSTRATION: On the left side of the frame, a cute energetic young girl (@img1) and a friendly old professor (@img2) are standing side-by-side, smiling and pointing enthusiastically towards the center and right side of the slide. The right 1/2 of the slide is kept as an intentional clean space for YouTube end screen elements. Cute, pop-style characters. Balanced composition. Ensure the bottom 1/3 remains free of text or important graphics for subtitles. --ar 16:9
 ```
